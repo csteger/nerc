@@ -39,6 +39,26 @@
             "initializedFrom": ""
         }
     }, 
+    "hadgem3-gc31-ll": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }
+    }, 
     "ukesm1-0-ll": {
         "toplevel": {
             "initializedFrom": ""
